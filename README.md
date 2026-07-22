@@ -16,7 +16,7 @@ I enjoy developing full-stack web applications with **TypeScript, React, Next.js
 - Node.js, Express, REST APIs, WebSockets
 
 **Databases**
-- PostgreSQL, Redis
+- PostgreSQL, Supabase, Redis
 
 **Tools**
 - Docker, Git, Linux, nginx
@@ -34,3 +34,7 @@ Built with TypeScript, React, Next.js, Node.js, PostgreSQL, Redis, Docker, and W
 [Live Demo](https://seasonsoffloripa.com)
 - 🌐 webserv — HTTP/1.1 server implemented in C++
 - 🐚 minishell — Unix shell implementation in C
+
+---
+
+Feel free to reach out: keillin.maeda@gmail.com
