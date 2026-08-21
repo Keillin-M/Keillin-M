@@ -10,7 +10,7 @@ I enjoy developing full-stack web applications with **TypeScript, React, Next.js
 - TypeScript, JavaScript, Python, C++, C
 
 **Frontend**
-- React, Next.js, HTML5 Canvas
+- React, Next.js
 
 **Backend**
 - Node.js, Express, REST APIs, WebSockets
